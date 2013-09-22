@@ -1,1 +1,2 @@
-This file was created by IntelliJ IDEA 12.1.4 for binding GitHub repository
+Small tool that works out when someone will have worked the specified number of days (excluding
+bank holidays and weekends) given the date they start work.
